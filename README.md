@@ -1,6 +1,7 @@
 # Unified-Scheduling-System
 
 ABSTRACT
+
 PlanAway is a unified scheduling system designed to provide efficient scheduling solutions for hospitals and universities. The project is built using HTML, CSS, JavaScript, and PHP, making it a robust web-based application that is easy to customize and adapt.
 
 The hospital management scheduling domain includes models such as doctor-patient scheduling, clinic scheduling, and staff shift scheduling. The university scheduling domain includes an automated timetable generator, classroom scheduling, and exam scheduling. These models are designed to provide a comprehensive solution to scheduling needs, streamlining the process and improving overall efficiency.
